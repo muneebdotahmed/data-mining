@@ -38,11 +38,42 @@ Knowledge Discovery and Data Mining course materials including:
 
 ## Usage
 
-These materials are designed for exam preparation. Review both documents thoroughly:
+These materials are designed for exam preparation. Review both documents thoroughly.
 
-1. Start with the exam questions summary to understand the scope
-2. Use the KDDM data materials for detailed concept review
-3. Cross-reference topics between both documents for comprehensive understanding
+### Automated Extraction & Matching (preserves LaTeX/math)
+
+Generate a CSV mapping of slide topics to exam questions locally:
+
+1) Install dependencies (one-time):
+   - Python 3.8+ and `pip`
+   - `pdfminer.six` for math-aware text extraction
+   ```bash
+   python3 -m pip install pdfminer.six
+   ```
+
+2) Run the full pipeline:
+   ```bash
+   python3 tools/run_pipeline.py \
+     --slides-pdf "KDDM - data - 2.pdf" \
+     --exam-pdf "Exam_Questions_Summary.pdf" \
+     --out results/mapped_topics.csv
+   ```
+
+Outputs:
+- `data/slides_topics.txt` – one line per page: `page|title`
+- `data/exam_questions.txt` – one question/topic per line
+- `results/mapped_topics.csv` – slide topic ↔ exam question mapping with scores
+
+Tuning:
+- Add synonyms via JSON and re-run for better matches:
+  ```json
+  {
+    "decision tree": ["id3", "c4.5", "cart"],
+    "naive bayes": ["nb"],
+    "k-means": ["kmeans", "k means"]
+  }
+  ```
+  Then: `python3 tools/run_pipeline.py --aliases data/aliases.json`
 
 ## Contributing
 
