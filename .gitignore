@@ -1,0 +1,42 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+.#*
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log Files
+*.log
+
+# Backup Files
+*.bak
+*.backup
+
+# Personal Notes (optional - uncomment if you want to exclude)
+# notes.txt
+# personal_notes.md
+
+# Cache and Build Files
+node_modules/
+dist/
+build/
+.cache/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
