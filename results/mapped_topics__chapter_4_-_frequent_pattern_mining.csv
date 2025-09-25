@@ -1,0 +1,37 @@
+page,slide_topic,exam_question,score,confidence
+3,What is Frequent Pattern Mining?,FP Growth,0.698,low
+3,What is Frequent Pattern Mining?,What is bag of words,0.642,low
+4,What is Frequent Pattern Mining?,FP Growth,0.698,low
+4,What is Frequent Pattern Mining?,What is bag of words,0.642,low
+5,What is Frequent Pattern Mining?,FP Growth,0.698,low
+5,What is Frequent Pattern Mining?,What is bag of words,0.642,low
+9,Mining Frequent Patterns: Apriori Principle,"Frequent itemset, association rules",0.633,low
+10,Apriori Algorithm,FP Growth,0.809,medium
+10,Apriori Algorithm,Apriori in detail,0.664,low
+11,Apriori Algorithm,FP Growth,0.809,medium
+11,Apriori Algorithm,Apriori in detail,0.664,low
+16,Apriori Algorithm: Full example,FP Growth,0.659,low
+17,Counting Candidate Support,FP Growth,0.707,medium
+18,Counting Candidate Support: Hash Tree,FP Growth,0.616,low
+22,Apriori – Performance Bottlenecks,FP Growth,0.684,low
+34,Principles of Frequent Pattern Growth,FP Growth,0.712,medium
+35,Why Is Frequent Pattern Growth Fast?,FP Growth,0.657,low
+39,Simple Association Rules: Introduction,FP Growth,0.702,medium
+40,Simple Association Rules: Basic Notions,FP Growth,0.667,low
+41,Interestingness of Association Rules,FP Growth,0.772,medium
+42,Interestingness of Association Rules,FP Growth,0.772,medium
+43,Interestingness of Association Rules,FP Growth,0.772,medium
+44,Mining of Association Rules,FP Growth,0.832,medium
+44,Mining of Association Rules,Frequent Itemset Mining - Apriori and hash table working,0.641,low
+44,Mining of Association Rules,Apriori in detail,0.633,low
+45,Mining of Association Rules,FP Growth,0.832,medium
+45,Mining of Association Rules,Frequent Itemset Mining - Apriori and hash table working,0.641,low
+45,Mining of Association Rules,Apriori in detail,0.633,low
+49,Criticism to Support and Confidence,FP Growth,0.719,medium
+52,Hierarchical Association Rules: Motivation,FP Growth,0.684,low
+53,Hierarchical Association Rules,FP Growth,0.789,medium
+53,Hierarchical Association Rules,Apriori in detail,0.602,low
+54,Hierarchical Association Rules: Characteristics,FP Growth,0.666,low
+56,Minimum Support for Multiple Levels,FP Growth,0.654,low
+60,Summary Frequent Itemset & Association Rule Mining,"Frequent itemset, association rules",0.676,low
+60,Summary Frequent Itemset & Association Rule Mining,"Frequent itemset mining, Frequent itemset",0.623,low

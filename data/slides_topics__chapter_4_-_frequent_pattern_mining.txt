@@ -1,0 +1,84 @@
+1|Agenda
+2|Agenda
+3|What is Frequent Pattern Mining?
+4|What is Frequent Pattern Mining?
+5|What is Frequent Pattern Mining?
+6|Agenda
+7|Mining Frequent Itemsets: Basic Notions
+8|Mining Frequent Itemsets: Basic Idea
+9|Mining Frequent Patterns: Apriori Principle
+10|Apriori Algorithm
+11|Apriori Algorithm
+12|Apriori Algorithm: Generating Candidates – Join Step
+13|Apriori Algorithm: Generating Candidates – Join Step
+14|Apriori Algorithm: Generating Candidates – Prune Step
+15|Apriori Algorithm: Generating Candidates – Prune Step
+16|Apriori Algorithm: Full example
+17|Counting Candidate Support
+18|Counting Candidate Support: Hash Tree
+19|Hash-Tree: Construction
+20|Hash-Tree: Construction
+21|Hash-Tree: Counting
+22|Apriori – Performance Bottlenecks
+23|Mining Frequent Patterns Without Candidate Generation
+24|FP-Tree Construction
+25|FP-Tree Construction
+26|FP-Tree Construction
+27|FP-Tree Construction
+28|Benefits of the FP-Tree Structure
+29|Mining Frequent Patterns Using FP-Tree
+30|Major Steps to Mine FP-Tree: Conditional Pattern Base
+31|Major Steps to Mine FP-Tree: Conditional FP-Tree
+32|Properties of FP-Tree for Conditional Pattern Bases
+33|Major Steps to Mine FP-Tree: Recursion
+34|Principles of Frequent Pattern Growth
+35|Why Is Frequent Pattern Growth Fast?
+36|Maximal or Closed Frequent Itemsets
+37|Maximal or Closed Frequent Itemsets
+38|Agenda
+39|Simple Association Rules: Introduction
+40|Simple Association Rules: Basic Notions
+41|Interestingness of Association Rules
+42|Interestingness of Association Rules
+43|Interestingness of Association Rules
+44|Mining of Association Rules
+45|Mining of Association Rules
+46|Generating Rules from Frequent Itemsets
+47|Generating Rules from Frequent Itemsets
+48|Interestingness Measurements
+49|Criticism to Support and Confidence
+50|Other Interestingness Measures: Correlation
+51|Other Interestingness Measures: Correlation
+52|Hierarchical Association Rules: Motivation
+53|Hierarchical Association Rules
+54|Hierarchical Association Rules: Characteristics
+55|Mining Multi-Level Associations
+56|Minimum Support for Multiple Levels
+57|Multilevel Association Mining using Reduced Support
+58|Multi-level Association: Redundancy Filtering
+59|R-Interestingness
+60|Summary Frequent Itemset & Association Rule Mining
+61|Agenda
+62|Motivation
+63|Sequential Pattern Mining: Basic Notions I
+64|Sequential Pattern Mining: Basic Notions II
+65|Sequential Pattern Mining: Basic Notions III
+66|Sequential Pattern Mining
+67|Sequential Pattern Mining Algorithms
+68|GSP (Generalized Sequential Pattern) algorithm
+69|Projection-Based Sequence Mining: PrefixSpan: Representation
+70|Prefix Search Tree: Example
+71|Projected Database
+72|Projection-Based Sequence Mining: PrefixSpan Algorithm
+73|PrefixSpan: Example
+74|Interval-based (Sequential) Pattern Mining
+75|Allen’s Relationships of Intervals
+76|Sequential Pattern Mining for Interval Data
+77|New Representation: Point Transformation of Intervals
+78|Point Transformation of Intervals: Examples
+79|Allen’s Relationships with Point Transformation
+80|Allen’s Relations with Point Transformation
+81|Allen’s Relations with Point Transformation (just the zones)
+82|An Open Issue: Considering Timing Information
+83|Interval Patterns Mining: Discussion
+84|From Clustering on Point Transformations to Interval Patterns

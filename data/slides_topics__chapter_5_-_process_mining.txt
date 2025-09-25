@@ -1,0 +1,107 @@
+1|Prof. Dr. Gabriel Marques Tavares
+2|Agenda
+3|Processes occur everywhere
+4|Processes – notion and meaning
+5|Continuous processes vs. event-based processes
+6|Example elevator control – both perspectives play a role
+7|Example: Sushi Process
+8|Process Properties: Sequence
+9|Process Properties: Concurrency
+10|Process Properties: Choice
+11|Process Properties: Loop
+12|Log files keep track of events
+13|Traces represent process executions for individual cases
+14|Process discovery – „play in“ of process models
+15|Process discovery – tune generalization of model
+16|Process mining: different tasks
+17|Process Mining Task: Discovery
+18|Process Mining Task: Conformance Checking
+19|Process Mining Task: Enhancement
+20|Information Flow of Event Data
+21|Process Mining Tools (community)
+22|Agenda
+23|Process Models – Motivation
+24|Process Model – BPMN (Business Process Modeling Notation)
+25|Process Model – Transition System
+26|Process Model – Petri Nets
+27|Process Model – Petri Nets
+28|Process Model – Petri Net Example
+29|Trace Clustering – Motivation
+30|Process Models – Roundup
+31|Agenda
+32|Event Logs as Starting Point
+33|Event Logs Technically
+34|Cases, Instances
+35|Activities, Event types
+36|Examples for tuning the granularity of activities
+37|Design choices for tuning the granularity of activities
+38|Are cases easy to identify?
+39|Metamorphosis of cases
+40|Temporal aspects, type of measurements
+41|Timestamps: does order matter? – supermarket example
+42|Totally ordered
+43|How to treat temporal attributes
+44|Timestamps: too coarse resolution?
+45|Agenda
+46|Motivation
+47|Process Discovery Algorithm „α-Miner“[1]
+48|Process Discovery Algorithm „α-Miner“
+49|Process Discovery Algorithm „α-Miner“
+50|Process Discovery Algorithm „α-Miner“
+51|Process Discovery Algorithm „α-Miner“
+52|Process Discovery Algorithm „α-Miner“
+53|Process Discovery Algorithm „α-Miner“
+54|Process Discovery Algorithm „(cid:72)-Miner“
+55|Process Discovery Algorithm „(cid:72)-Miner“
+56|Process Discovery Algorithm „(cid:72)-Miner“
+57|Process Discovery Algorithm „(cid:72)-Miner“
+58|Process Discovery Algorithm „(cid:72)-Miner“
+59|(cid:72)-Miner Limitations: short-loop
+60|(cid:72)-Miner Limitations: loops of length two
+61|(cid:72)-Miner Limitations: non-local dependencies
+62|Process Discovery Algorithm „Heuristics Miner“ [2]
+63|Process Discovery Algorithm „Heuristics Miner“
+64|Process Discovery Algorithm „Heuristics Miner“
+65|Process Discovery Algorithm „Heuristics Miner“
+66|Process Discovery Algorithm „Heuristics Miner“
+67|Process Discovery Algorithm „Heuristics Miner“
+68|Process Discovery Algorithm „Heuristics Miner“
+69|Trace Clustering – Motivation
+70|Trace Clustering – Motivation
+71|Trace Clustering – Example
+72|Trace Clustering – Example
+73|Trace Clustering – Methods
+74|Trace Clustering – Methods
+75|Process Discovery Algorithm – Some Others
+76|Agenda
+77|Motivation
+78|Goal: Workflow improvements
+79|Automata Theory: Decide Language Membership
+80|Petri Net Membership Test
+81|Petri Net Membership Test
+82|Petri Net Membership Test
+83|Petri Net Membership Test
+84|Petri Net Membership Test
+85|Petri Net Membership Test
+86|Petri Net Membership Test
+87|Petri Net Membership Test
+88|Petri Net Membership Test
+89|Token Replay1
+90|Token Replay Fitness
+91|Token Replay Example
+92|Token Replay Example
+93|Token Replay Example
+94|Token Replay Example
+95|Token Replay Example
+96|Token Replay Example
+97|Token Replay Example
+98|Token Replay: Discussion
+99|Alignments2
+100|Alignments
+101|Alignments
+102|Alignments
+103|Alignments
+104|Alignments Discussion
+105|Applications for Conformance Scores
+106|Temporal Conformance Checking
+107|Agenda

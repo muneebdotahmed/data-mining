@@ -1,0 +1,15 @@
+1|Rare Pattern Mining
+2|Significance of Low-support Patterns
+3|Low-support patterns in medical datasets
+4|Low-support patterns in vehicle accidents datasets
+5|Low-support patterns for synthetic dataset generation with real data
+6|Existing approaches (selected)
+7|Power set lattice of itemsets (Hasse diagram)
+8|Sparse and dense datasets • Sparse datasets
+9|Traversal orders for the power set lattice
+10|Traversal orders: Some observations
+11|Traversal orders: What is the best for real datasets? • In reality, dataset is both sparse and dense
+12|RaCloMiner – Bi-directional traversal
+13|Experimental setting
+14|Experimental results for dense datasets
+15|Experimental results for sparse datasets

@@ -1,0 +1,50 @@
+page,slide_topic,exam_question,score,confidence
+4,Supervised vs. Unsupervised Learning,"Supervised vs unsupervised learning, evaluation, metrics",0.815,medium
+4,Supervised vs. Unsupervised Learning,Tasks of Unsupervised Learning,0.63,low
+5,What is Clustering?,What is Deep Learning,0.607,low
+5,What is Clustering?,What is bag of words,0.601,low
+20,Initialization of Partitioning Clustering Methods,"Clustering, clustering methods",0.706,medium
+22,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+23,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+24,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+25,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+50,Density-Based Clustering,Explain DBSCAN,0.69,low
+50,Density-Based Clustering,DBSCAN and k-means,0.64,low
+66,Database Support for Density-Based Clustering,FP Growth,0.722,medium
+66,Database Support for Density-Based Clustering,Apriori in detail,0.601,low
+67,Database Support for Density-Based Clustering,FP Growth,0.722,medium
+67,Database Support for Density-Based Clustering,Apriori in detail,0.601,low
+68,Database Support for Density-Based Clustering,FP Growth,0.722,medium
+68,Database Support for Density-Based Clustering,Apriori in detail,0.601,low
+72,General Steps for Spectral Clustering I,Spectral clustering,0.701,medium
+73,General Steps for Spectral Clustering II,Spectral clustering,0.696,low
+75,Spectral Clustering - Preliminaries,Spectral clustering,0.792,medium
+75,Spectral Clustering - Preliminaries,Spectral clustering algorithms,0.655,low
+76,Spectral Clustering : Preliminaries,Spectral clustering,0.792,medium
+76,Spectral Clustering : Preliminaries,Spectral clustering algorithms,0.655,low
+77,Spectral Clustering: Graph Partitioning with Eigendecomposition,Spectral clustering,0.62,low
+78,Spectral Clustering: k Connected Components,Spectral clustering,0.669,low
+79,Spectral Clustering: Example for k connected components,Spectral clustering,0.62,low
+80,Spectral Clustering: General Case,Spectral clustering,0.748,medium
+80,Spectral Clustering: General Case,Spectral clustering algorithms,0.617,low
+81,Spectral Clustering: General Case,Spectral clustering,0.748,medium
+81,Spectral Clustering: General Case,Spectral clustering algorithms,0.617,low
+82,Spectral Clustering: Data Transformation,Spectral clustering,0.712,medium
+84,Spectral Clustering: Discussion,Spectral clustering,0.81,medium
+84,Spectral Clustering: Discussion,Spectral clustering algorithms,0.643,low
+86,From Partitioning to Hierarchical Clustering,Hierarchical clustering,0.812,medium
+86,From Partitioning to Hierarchical Clustering,Explain agglomerative clustering,0.637,low
+87,Hierarchical Clustering: Basic Notions,Hierarchical clustering,0.757,medium
+88,Hierarchical Clustering: Example,Hierarchical clustering,0.841,medium
+88,Hierarchical Clustering: Example,Explain agglomerative clustering,0.624,low
+89,Agglomerative Hierarchical Clustering,Hierarchical clustering,0.863,high
+89,Agglomerative Hierarchical Clustering,How divisive hierarchical clustering works,0.812,medium
+89,Agglomerative Hierarchical Clustering,Explain agglomerative clustering,0.806,medium
+91,Divisive Hierarchical Clustering,Hierarchical clustering,0.863,high
+91,Divisive Hierarchical Clustering,How divisive hierarchical clustering works,0.812,medium
+91,Divisive Hierarchical Clustering,Explain agglomerative clustering,0.806,medium
+92,Discussion Agglomerative vs. Divisive HC,Hierarchical clustering,0.631,low
+93,Density-Based Hierarchical Clustering,Hierarchical clustering,0.757,medium
+118,Hierarchical Clustering: Discussion,Hierarchical clustering,0.823,medium
+118,Hierarchical Clustering: Discussion,Explain agglomerative clustering,0.655,low
+139,Recap: Observed Clustering Methods,"Clustering, clustering methods",0.747,medium

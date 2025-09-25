@@ -1,0 +1,118 @@
+1|Prof. Dr. Gabriel Marques Tavares
+2|Agenda
+3|Additional Literature for this Chapter
+4|Introduction: Toy Example Car Insurance
+5|Classification: Training Phase (Model Construction)
+6|Classification: Prediction Phase (Application)
+7|Classification
+8|Numerical Prediction
+9|Goals for this Section
+10|Quality Measures for Classifiers
+11|Quality Measures: Accuracy and Error
+12|Task: Retrieve all Objects of a Single Class
+13|External Measures for a Single Classes
+14|Quality Measures: Confusion Matrix
+15|Quality Measures: Computation
+16|Quality Measures for Data Sets
+17|Evaluation of Classifiers: Notions
+18|Evaluation of Classifiers: Cross Validation
+19|Quality Measures: Accuracy and Error
+20|Overfitting
+21|Overfitting
+22|Underfitting
+23|Agenda
+24|Bayes Classification
+25|Bayes’ Theorem
+26|Bayes Classifier
+27|Bayes Classifier: Density Estimation
+28|Bayes Classifier: Density Estimation
+29|Na¨ıve Bayes Classifier
+30|Na¨ıve Bayes Classifier
+31|Na¨ıve Bayes Classifier: Example
+32|Na¨ıve Bayes Classifier: Example (cont’d)
+33|Bayesian Classifier
+34|Example: Interpretation of Raster Images
+35|Example: Interpretation of Raster Images
+36|Example: Interpretation of Raster Images
+37|Bayesian Classifiers: Discussion
+38|The Independence Hypothesis
+39|Agenda
+40|Linear Discriminant Function Classifier
+41|Basic Notions
+42|Formalization
+43|Optimal Parameter Estimation
+44|Optimal Parameter Estimation
+45|Extension to Multiple Classes
+46|Extension to Multiple Classes
+47|Discussion (Linear Discriminant Function)
+48|Agenda
+49|Maximum Margin Hyperplane
+50|Support Vector Machines: Principle
+51|Support Vector Machines: Principle
+52|Formalisation
+53|Requirements of the MMH
+54|Computation of the MMH
+55|Computation of the MMH
+56|Optimization with Lagrange-Multipliers
+57|Optimization with Lagrange-Multipliers
+58|Soft Margin Optimization
+59|Soft Margin Optimization
+60|Soft Margin Optimization
+61|SVM: Discussion
+62|Agenda
+63|Non-Linearly Separable Data Sets
+64|Extension of the Hypotheses Space
+65|Extension of the Hypotheses Space: Parabola Example
+66|Extension of the Hypotheses Space: Circular Example
+67|Extension of Linear Discriminant Function Classifier
+68|Non-linear Classification: Discussion
+69|Implicit Mappings: Kernel Trick
+70|Kernel: Example
+71|Why are scalar products useful?
+72|Formal Definitions
+73|Formal Definitions (cont’d)
+74|Interpretation of Kernel Functions
+75|Kernel SVM
+76|Examples for (Mercer) Kernels
+77|Non-numeric Kernels
+78|Discussion
+79|Agenda
+80|Decision Tree Classifiers
+81|Decision Tree Classifier: Splits
+82|Decision Tree Classifiers: Basics
+83|Algorithm for Decision Tree Construction
+84|Algorithm for Decision Tree Construction
+85|Example: Decision for ”playing tennis”
+86|Split Strategies: Quality of Splits
+87|Attribute Selection Measures: Information Gain
+88|Attribute Selection Measures: Information Gain
+89|Attribute Selection: Example (Information Gain)
+90|Example: Decision Tree for ”playing tennis”
+91|Attribute Selection Measures: Gini Index
+92|Attribute Selection Measures: Misclassification Error
+93|Attribute Selection Measures: Comparison
+94|Split Strategies: Types of Splits
+95|Avoid Overfitting in Classification
+96|Pruning Techniques for Decision Trees
+97|Pruning Techniques for Decision Trees
+98|Avoid Overfitting with Regularization
+99|Minimal Cost Complexity Pruning: Notions
+100|Decision Tree Classifiers: Summary
+101|Agenda
+102|Nearest Neighbor Classifiers
+103|Nearest Neighbor Classifiers
+104|Instance-Based Learning
+105|Nearest Neighbor Classifiers: Notions
+106|(Plain) Decision Rules
+107|Weighted Decision Rules
+108|Example: Influence of Weighting (here: k = 5)
+109|NN Classifier: Parameter k
+110|Example: Majority Vote – Influence of k
+111|NN Classifier: Variants
+112|NN Classifier: Discussion
+113|Agenda
+114|Ensemble Classification
+115|Bagging
+116|Boosting
+117|Classification: Summary
+118|Classification: Conclusion

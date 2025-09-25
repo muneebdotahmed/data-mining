@@ -1,0 +1,139 @@
+1|Prof. Dr. Gabriel Marques Tavares
+2|Agenda
+3|Agenda
+4|Supervised vs. Unsupervised Learning
+5|What is Clustering?
+6|General Applications of Clustering
+7|Application Example: Downsampling Images
+8|Major Clustering Approaches
+9|Agenda
+10|Partitioning Algorithms: Basic Concept
+11|Partitioning Algorithms: Basic Concept
+12|k-Means Clustering: Basic Idea
+13|k-Means Clustering: Basic Notions
+14|k-Means Clustering: Algorithm
+15|k-Means: Voronoi Model for Convex Cluster Regions
+16|k-Means: Discussion
+17|Variants: Basic Idea
+18|k-Median
+19|K -Means/Median/Mode/Medoid Clustering: Discussion
+20|Initialization of Partitioning Clustering Methods
+21|Choice of the Parameter k
+22|The Silhouette Coefficient
+23|The Silhouette Coefficient
+24|The Silhouette Coefficient
+25|The Silhouette Coefficient
+26|Silhouette Coefficient: Example
+27|Agenda
+28|Expectation Maximization (EM)
+29|Excursus: Gaussian Mixture Distributions
+30|Excursus: Gaussian Mixture Distributions
+31|EM: Exemplary Application
+32|EM: Clustering Model
+33|EM: Maximum Likelihood Estimation
+34|EM: Maximum Likelihood Estimation
+35|EM: Maximum Likelihood Estimation
+36|EM: Maximum Likelihood Estimation
+37|EM: Iterative Optimization
+38|EM: Iterative Optimization
+39|EM: Turning the Soft Clustering into a Partitioning
+40|EM: Discussion
+41|EM: Model Selection for Determining Parameter k
+42|EM: Model Selection for Determining Parameter k
+43|Agenda
+44|Iterative Mode Search
+45|Iterative Mode Search: Example
+46|Mean Shift: Core Algorithm
+47|Mean Shift: Extensions
+48|Mean Shift: Discussion
+49|Agenda
+50|Density-Based Clustering
+51|Density-Based Clustering: Basic Concept
+52|Density-Based Clustering: Basic Concept
+53|Density-Based Clustering: Basic Concept
+54|Density-Based Clustering: Basic Definitions
+55|Density-Based Clustering: Basic Definitions
+56|Density-Based Clustering: Basic Definitions
+57|Density-Based Clustering: Basic Definitions
+58|Density-Based Clustering: DBSCAN Algorithm
+59|Density-Based Clustering: DBSCAN Algorithm
+60|DBSCAN: Example
+61|DBSCAN: Example
+62|DBSCAN: Example
+63|Determining the Parameters ϵ and MinPts
+64|Determining the Parameters ϵ and MinPts
+65|Determining the Parameters ϵ and MinPts: Problematic Example
+66|Database Support for Density-Based Clustering
+67|Database Support for Density-Based Clustering
+68|Database Support for Density-Based Clustering
+69|Efficient Similarity Join Processing
+70|DBSCAN: Discussion
+71|Agenda
+72|General Steps for Spectral Clustering I
+73|General Steps for Spectral Clustering II
+74|Clustering as Graph Partitioning
+75|Spectral Clustering - Preliminaries
+76|Spectral Clustering : Preliminaries
+77|Spectral Clustering: Graph Partitioning with Eigendecomposition
+78|Spectral Clustering: k Connected Components
+79|Spectral Clustering: Example for k connected components
+80|Spectral Clustering: General Case
+81|Spectral Clustering: General Case
+82|Spectral Clustering: Data Transformation
+83|Illustration: Embedding of Vertices to a Vector Space
+84|Spectral Clustering: Discussion
+85|Agenda
+86|From Partitioning to Hierarchical Clustering
+87|Hierarchical Clustering: Basic Notions
+88|Hierarchical Clustering: Example
+89|Agglomerative Hierarchical Clustering
+90|Single-Link Method and Variants
+91|Divisive Hierarchical Clustering
+92|Discussion Agglomerative vs. Divisive HC
+93|Density-Based Hierarchical Clustering
+94|Core Distance and Reachability Distance
+95|The Algorithm OPTICS
+96|The Algorithm OPTICS
+97|OPTICS: Example
+98|OPTICS: Example
+99|OPTICS: Example
+100|OPTICS: Example
+101|OPTICS: Example
+102|OPTICS: Example
+103|OPTICS: Example
+104|OPTICS: Example
+105|OPTICS: Example
+106|OPTICS: Example
+107|OPTICS: Example
+108|OPTICS: Example
+109|OPTICS: Example
+110|OPTICS: Example
+111|OPTICS: Example
+112|OPTICS: Example
+113|OPTICS: Example
+114|OPTICS: Example
+115|OPTICS: The Reachability Plot
+116|OPTICS: The Reachability Plot
+117|OPTICS: Parameter Sensitivity
+118|Hierarchical Clustering: Discussion
+119|Agenda
+120|Evaluation of Clustering Results
+121|External Measures
+122|Formalisation as Retrieval Problem for Clustering
+123|Formalisation as Retrieval Problem for Clustering
+124|External Measures - Retrieval Problem
+125|External Measures - Retrieval Problem
+126|External Measures - Retrieval Problem
+127|External Measures - Information Theory
+128|External Measures - Information Theory
+129|Internal Measures: Cohesion
+130|Internal Measures: Separation
+131|Evaluating the Distance Matrix
+132|Evaluating the Distance Matrix
+133|Cohesion and Separation
+134|Ambiguity of Clusterings
+135|Ambiguity of Clusterings
+136|Ambiguity of Clusterings
+137|Ambiguity of Clusterings
+138|Hopkins Statistics
+139|Recap: Observed Clustering Methods

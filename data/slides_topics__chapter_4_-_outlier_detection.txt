@@ -1,0 +1,46 @@
+1|Agenda
+2|Agenda
+3|Introduction
+4|Introduction
+5|Introduction
+6|Introduction
+7|Agenda
+8|Clustering-based Outliers
+9|Clustering-based Outliers
+10|Agenda
+11|Statistical Tests
+12|Statistical Tests
+13|Statistical Tests
+14|Statistical Outliers: Gaussian Distribution
+15|Statistical Outliers: Mahalanobis Distance
+16|Statistical Outliers: Problems
+17|Statistical Outliers: Problems
+18|Statistical Outliers: Problems
+19|Agenda
+20|Distance-Based Approaches
+21|Distance-Based Approaches
+22|Distance-Based Approaches: D(ϵ, π) Example
+23|Distance-Based Approaches: kNN
+24|Distance-Based Approaches: kNN Example
+25|Distance-Based Approaches: kNN Example
+26|kNN: Problems
+27|Agenda
+28|Density-Based Approaches
+29|Density-Based Approaches
+30|Density-Based Approaches
+31|Density-Based Approaches
+32|Density-Based Approaches
+33|Density-Based Approaches
+34|Density-Based Approaches
+35|Agenda
+36|Angle-Based Approach
+37|Angle-Based Approach
+38|Angle-Based Approach
+39|Angle-Based Approaches
+40|Agenda
+41|Tree-Based Approaches: Isolation Forest
+42|Tree-Based Approaches
+43|Tree-Based Approaches: Training
+44|Tree-Based Approaches: Anomaly Score
+45|Tree-Based Approaches: Discussion
+46|Recap - Outlier Detection

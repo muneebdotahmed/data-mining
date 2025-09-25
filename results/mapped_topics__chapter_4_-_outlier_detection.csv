@@ -1,0 +1,10 @@
+page,slide_topic,exam_question,score,confidence
+26,kNN: Problems,Explain KNN for classification,0.615,low
+28,Density-Based Approaches,Density-based algorithm,0.639,low
+29,Density-Based Approaches,Density-based algorithm,0.639,low
+30,Density-Based Approaches,Density-based algorithm,0.639,low
+31,Density-Based Approaches,Density-based algorithm,0.639,low
+32,Density-Based Approaches,Density-based algorithm,0.639,low
+33,Density-Based Approaches,Density-based algorithm,0.639,low
+34,Density-Based Approaches,Density-based algorithm,0.639,low
+46,Recap - Outlier Detection,Outlier detection,0.84,medium

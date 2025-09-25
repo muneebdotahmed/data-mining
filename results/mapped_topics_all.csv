@@ -1,0 +1,124 @@
+source,page,slide_topic,exam_question,score,confidence
+chapter_2_-_data,19,Feature Extraction,Feature selection vs dimensionality reduction,0.698,low
+chapter_2_-_data,29,Data Visualization Techniques,Visualization techniques/visualization of results,0.606,low
+chapter_2_-_data,67,Basic OLAP (Online Analytical Processing) Operations,"OLAP, OLTP",0.69,low
+chapter_2_-_data,73,Further OLAP Operations,"OLAP, OLTP",0.665,low
+chapter_2_-_data,75,Discussion of OLAP-based Generalization,"OLAP, OLTP",0.611,low
+chapter_3_-_classification,7,Classification,Favorite classification algorithm,0.638,low
+chapter_3_-_classification,50,Support Vector Machines: Principle,Time complexity of SVM vs NN,0.657,low
+chapter_3_-_classification,50,Support Vector Machines: Principle,FP Growth,0.651,low
+chapter_3_-_classification,50,Support Vector Machines: Principle,"Complexity of SVM, scalar product in dual form",0.629,low
+chapter_3_-_classification,51,Support Vector Machines: Principle,Time complexity of SVM vs NN,0.657,low
+chapter_3_-_classification,51,Support Vector Machines: Principle,FP Growth,0.651,low
+chapter_3_-_classification,51,Support Vector Machines: Principle,"Complexity of SVM, scalar product in dual form",0.629,low
+chapter_3_-_classification,61,SVM: Discussion,Time complexity of SVM vs NN,0.662,low
+chapter_3_-_classification,61,SVM: Discussion,FP Growth,0.647,low
+chapter_3_-_classification,61,SVM: Discussion,"Complexity of SVM, scalar product in dual form",0.627,low
+chapter_3_-_classification,75,Kernel SVM,Time complexity of SVM vs NN,0.674,low
+chapter_3_-_classification,75,Kernel SVM,FP Growth,0.663,low
+chapter_3_-_classification,75,Kernel SVM,"Complexity of SVM, scalar product in dual form",0.614,low
+chapter_3_-_classification,80,Decision Tree Classifiers,Decision Tree Algorithm,0.617,low
+chapter_3_-_classification,83,Algorithm for Decision Tree Construction,Decision Tree Algorithm,0.742,medium
+chapter_3_-_classification,84,Algorithm for Decision Tree Construction,Decision Tree Algorithm,0.742,medium
+chapter_3_-_classification,102,Nearest Neighbor Classifiers,Explain KNN for classification,0.682,low
+chapter_3_-_classification,103,Nearest Neighbor Classifiers,Explain KNN for classification,0.682,low
+chapter_3_-_classification,105,Nearest Neighbor Classifiers: Notions,Explain KNN for classification,0.625,low
+chapter_4_-_clustering,4,Supervised vs. Unsupervised Learning,"Supervised vs unsupervised learning, evaluation, metrics",0.815,medium
+chapter_4_-_clustering,4,Supervised vs. Unsupervised Learning,Tasks of Unsupervised Learning,0.63,low
+chapter_4_-_clustering,5,What is Clustering?,What is Deep Learning,0.607,low
+chapter_4_-_clustering,5,What is Clustering?,What is bag of words,0.601,low
+chapter_4_-_clustering,20,Initialization of Partitioning Clustering Methods,"Clustering, clustering methods",0.706,medium
+chapter_4_-_clustering,22,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+chapter_4_-_clustering,23,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+chapter_4_-_clustering,24,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+chapter_4_-_clustering,25,The Silhouette Coefficient,Silhouette formula and explanation,0.601,low
+chapter_4_-_clustering,50,Density-Based Clustering,Explain DBSCAN,0.69,low
+chapter_4_-_clustering,50,Density-Based Clustering,DBSCAN and k-means,0.64,low
+chapter_4_-_clustering,66,Database Support for Density-Based Clustering,FP Growth,0.722,medium
+chapter_4_-_clustering,66,Database Support for Density-Based Clustering,Apriori in detail,0.601,low
+chapter_4_-_clustering,67,Database Support for Density-Based Clustering,FP Growth,0.722,medium
+chapter_4_-_clustering,67,Database Support for Density-Based Clustering,Apriori in detail,0.601,low
+chapter_4_-_clustering,68,Database Support for Density-Based Clustering,FP Growth,0.722,medium
+chapter_4_-_clustering,68,Database Support for Density-Based Clustering,Apriori in detail,0.601,low
+chapter_4_-_clustering,72,General Steps for Spectral Clustering I,Spectral clustering,0.701,medium
+chapter_4_-_clustering,73,General Steps for Spectral Clustering II,Spectral clustering,0.696,low
+chapter_4_-_clustering,75,Spectral Clustering - Preliminaries,Spectral clustering,0.792,medium
+chapter_4_-_clustering,75,Spectral Clustering - Preliminaries,Spectral clustering algorithms,0.655,low
+chapter_4_-_clustering,76,Spectral Clustering : Preliminaries,Spectral clustering,0.792,medium
+chapter_4_-_clustering,76,Spectral Clustering : Preliminaries,Spectral clustering algorithms,0.655,low
+chapter_4_-_clustering,77,Spectral Clustering: Graph Partitioning with Eigendecomposition,Spectral clustering,0.62,low
+chapter_4_-_clustering,78,Spectral Clustering: k Connected Components,Spectral clustering,0.669,low
+chapter_4_-_clustering,79,Spectral Clustering: Example for k connected components,Spectral clustering,0.62,low
+chapter_4_-_clustering,80,Spectral Clustering: General Case,Spectral clustering,0.748,medium
+chapter_4_-_clustering,80,Spectral Clustering: General Case,Spectral clustering algorithms,0.617,low
+chapter_4_-_clustering,81,Spectral Clustering: General Case,Spectral clustering,0.748,medium
+chapter_4_-_clustering,81,Spectral Clustering: General Case,Spectral clustering algorithms,0.617,low
+chapter_4_-_clustering,82,Spectral Clustering: Data Transformation,Spectral clustering,0.712,medium
+chapter_4_-_clustering,84,Spectral Clustering: Discussion,Spectral clustering,0.81,medium
+chapter_4_-_clustering,84,Spectral Clustering: Discussion,Spectral clustering algorithms,0.643,low
+chapter_4_-_clustering,86,From Partitioning to Hierarchical Clustering,Hierarchical clustering,0.812,medium
+chapter_4_-_clustering,86,From Partitioning to Hierarchical Clustering,Explain agglomerative clustering,0.637,low
+chapter_4_-_clustering,87,Hierarchical Clustering: Basic Notions,Hierarchical clustering,0.757,medium
+chapter_4_-_clustering,88,Hierarchical Clustering: Example,Hierarchical clustering,0.841,medium
+chapter_4_-_clustering,88,Hierarchical Clustering: Example,Explain agglomerative clustering,0.624,low
+chapter_4_-_clustering,89,Agglomerative Hierarchical Clustering,Hierarchical clustering,0.863,high
+chapter_4_-_clustering,89,Agglomerative Hierarchical Clustering,How divisive hierarchical clustering works,0.812,medium
+chapter_4_-_clustering,89,Agglomerative Hierarchical Clustering,Explain agglomerative clustering,0.806,medium
+chapter_4_-_clustering,91,Divisive Hierarchical Clustering,Hierarchical clustering,0.863,high
+chapter_4_-_clustering,91,Divisive Hierarchical Clustering,How divisive hierarchical clustering works,0.812,medium
+chapter_4_-_clustering,91,Divisive Hierarchical Clustering,Explain agglomerative clustering,0.806,medium
+chapter_4_-_clustering,92,Discussion Agglomerative vs. Divisive HC,Hierarchical clustering,0.631,low
+chapter_4_-_clustering,93,Density-Based Hierarchical Clustering,Hierarchical clustering,0.757,medium
+chapter_4_-_clustering,118,Hierarchical Clustering: Discussion,Hierarchical clustering,0.823,medium
+chapter_4_-_clustering,118,Hierarchical Clustering: Discussion,Explain agglomerative clustering,0.655,low
+chapter_4_-_clustering,139,Recap: Observed Clustering Methods,"Clustering, clustering methods",0.747,medium
+chapter_4_-_frequent_pattern_mining,3,What is Frequent Pattern Mining?,FP Growth,0.698,low
+chapter_4_-_frequent_pattern_mining,3,What is Frequent Pattern Mining?,What is bag of words,0.642,low
+chapter_4_-_frequent_pattern_mining,4,What is Frequent Pattern Mining?,FP Growth,0.698,low
+chapter_4_-_frequent_pattern_mining,4,What is Frequent Pattern Mining?,What is bag of words,0.642,low
+chapter_4_-_frequent_pattern_mining,5,What is Frequent Pattern Mining?,FP Growth,0.698,low
+chapter_4_-_frequent_pattern_mining,5,What is Frequent Pattern Mining?,What is bag of words,0.642,low
+chapter_4_-_frequent_pattern_mining,9,Mining Frequent Patterns: Apriori Principle,"Frequent itemset, association rules",0.633,low
+chapter_4_-_frequent_pattern_mining,10,Apriori Algorithm,FP Growth,0.809,medium
+chapter_4_-_frequent_pattern_mining,10,Apriori Algorithm,Apriori in detail,0.664,low
+chapter_4_-_frequent_pattern_mining,11,Apriori Algorithm,FP Growth,0.809,medium
+chapter_4_-_frequent_pattern_mining,11,Apriori Algorithm,Apriori in detail,0.664,low
+chapter_4_-_frequent_pattern_mining,16,Apriori Algorithm: Full example,FP Growth,0.659,low
+chapter_4_-_frequent_pattern_mining,17,Counting Candidate Support,FP Growth,0.707,medium
+chapter_4_-_frequent_pattern_mining,18,Counting Candidate Support: Hash Tree,FP Growth,0.616,low
+chapter_4_-_frequent_pattern_mining,22,Apriori – Performance Bottlenecks,FP Growth,0.684,low
+chapter_4_-_frequent_pattern_mining,34,Principles of Frequent Pattern Growth,FP Growth,0.712,medium
+chapter_4_-_frequent_pattern_mining,35,Why Is Frequent Pattern Growth Fast?,FP Growth,0.657,low
+chapter_4_-_frequent_pattern_mining,39,Simple Association Rules: Introduction,FP Growth,0.702,medium
+chapter_4_-_frequent_pattern_mining,40,Simple Association Rules: Basic Notions,FP Growth,0.667,low
+chapter_4_-_frequent_pattern_mining,41,Interestingness of Association Rules,FP Growth,0.772,medium
+chapter_4_-_frequent_pattern_mining,42,Interestingness of Association Rules,FP Growth,0.772,medium
+chapter_4_-_frequent_pattern_mining,43,Interestingness of Association Rules,FP Growth,0.772,medium
+chapter_4_-_frequent_pattern_mining,44,Mining of Association Rules,FP Growth,0.832,medium
+chapter_4_-_frequent_pattern_mining,44,Mining of Association Rules,Frequent Itemset Mining - Apriori and hash table working,0.641,low
+chapter_4_-_frequent_pattern_mining,44,Mining of Association Rules,Apriori in detail,0.633,low
+chapter_4_-_frequent_pattern_mining,45,Mining of Association Rules,FP Growth,0.832,medium
+chapter_4_-_frequent_pattern_mining,45,Mining of Association Rules,Frequent Itemset Mining - Apriori and hash table working,0.641,low
+chapter_4_-_frequent_pattern_mining,45,Mining of Association Rules,Apriori in detail,0.633,low
+chapter_4_-_frequent_pattern_mining,49,Criticism to Support and Confidence,FP Growth,0.719,medium
+chapter_4_-_frequent_pattern_mining,52,Hierarchical Association Rules: Motivation,FP Growth,0.684,low
+chapter_4_-_frequent_pattern_mining,53,Hierarchical Association Rules,FP Growth,0.789,medium
+chapter_4_-_frequent_pattern_mining,53,Hierarchical Association Rules,Apriori in detail,0.602,low
+chapter_4_-_frequent_pattern_mining,54,Hierarchical Association Rules: Characteristics,FP Growth,0.666,low
+chapter_4_-_frequent_pattern_mining,56,Minimum Support for Multiple Levels,FP Growth,0.654,low
+chapter_4_-_frequent_pattern_mining,60,Summary Frequent Itemset & Association Rule Mining,"Frequent itemset, association rules",0.676,low
+chapter_4_-_frequent_pattern_mining,60,Summary Frequent Itemset & Association Rule Mining,"Frequent itemset mining, Frequent itemset",0.623,low
+chapter_4_-_outlier_detection,26,kNN: Problems,Explain KNN for classification,0.615,low
+chapter_4_-_outlier_detection,28,Density-Based Approaches,Density-based algorithm,0.639,low
+chapter_4_-_outlier_detection,29,Density-Based Approaches,Density-based algorithm,0.639,low
+chapter_4_-_outlier_detection,30,Density-Based Approaches,Density-based algorithm,0.639,low
+chapter_4_-_outlier_detection,31,Density-Based Approaches,Density-based algorithm,0.639,low
+chapter_4_-_outlier_detection,32,Density-Based Approaches,Density-based algorithm,0.639,low
+chapter_4_-_outlier_detection,33,Density-Based Approaches,Density-based algorithm,0.639,low
+chapter_4_-_outlier_detection,34,Density-Based Approaches,Density-based algorithm,0.639,low
+chapter_4_-_outlier_detection,46,Recap - Outlier Detection,Outlier detection,0.84,medium
+chapter_4_-_rare_patterns,2,Significance of Low-support Patterns,FP Growth,0.647,low
+chapter_4_-_rare_patterns,3,Low-support patterns in medical datasets,FP Growth,0.613,low
+chapter_5_-_process_mining,18,Process Mining Task: Conformance Checking,"Process mining - supervised/unsupervised, conformance checking",0.71,medium
+chapter_5_-_process_mining,73,Trace Clustering – Methods,"Clustering, clustering methods",0.817,medium
+chapter_5_-_process_mining,74,Trace Clustering – Methods,"Clustering, clustering methods",0.817,medium

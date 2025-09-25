@@ -1,0 +1,3 @@
+page,slide_topic,exam_question,score,confidence
+2,Significance of Low-support Patterns,FP Growth,0.647,low
+3,Low-support patterns in medical datasets,FP Growth,0.613,low

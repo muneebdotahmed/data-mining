@@ -1,0 +1,20 @@
+page,slide_topic,exam_question,score,confidence
+7,Classification,Favorite classification algorithm,0.638,low
+50,Support Vector Machines: Principle,Time complexity of SVM vs NN,0.657,low
+50,Support Vector Machines: Principle,FP Growth,0.651,low
+50,Support Vector Machines: Principle,"Complexity of SVM, scalar product in dual form",0.629,low
+51,Support Vector Machines: Principle,Time complexity of SVM vs NN,0.657,low
+51,Support Vector Machines: Principle,FP Growth,0.651,low
+51,Support Vector Machines: Principle,"Complexity of SVM, scalar product in dual form",0.629,low
+61,SVM: Discussion,Time complexity of SVM vs NN,0.662,low
+61,SVM: Discussion,FP Growth,0.647,low
+61,SVM: Discussion,"Complexity of SVM, scalar product in dual form",0.627,low
+75,Kernel SVM,Time complexity of SVM vs NN,0.674,low
+75,Kernel SVM,FP Growth,0.663,low
+75,Kernel SVM,"Complexity of SVM, scalar product in dual form",0.614,low
+80,Decision Tree Classifiers,Decision Tree Algorithm,0.617,low
+83,Algorithm for Decision Tree Construction,Decision Tree Algorithm,0.742,medium
+84,Algorithm for Decision Tree Construction,Decision Tree Algorithm,0.742,medium
+102,Nearest Neighbor Classifiers,Explain KNN for classification,0.682,low
+103,Nearest Neighbor Classifiers,Explain KNN for classification,0.682,low
+105,Nearest Neighbor Classifiers: Notions,Explain KNN for classification,0.625,low
