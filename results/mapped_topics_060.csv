@@ -1,6 +1,0 @@
-page,slide_topic,exam_question,score,confidence
-19,Feature Extraction,Feature selection vs dimensionality reduction,0.698,low
-29,Data Visualization Techniques,Visualization techniques/visualization of results,0.606,low
-67,Basic OLAP (Online Analytical Processing) Operations,"OLAP, OLTP",0.69,low
-73,Further OLAP Operations,"OLAP, OLTP",0.665,low
-75,Discussion of OLAP-based Generalization,"OLAP, OLTP",0.611,low
